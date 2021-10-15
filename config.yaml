@@ -1,0 +1,17 @@
+Key:
+anti-captcha:
+  - key
+2captcha:
+  - key1
+  - key2
+Db:
+DbHost: 127.0.0.1
+DbPort: 5432
+DbUser: dbname
+DbPassword: password
+Redis:
+RedisHost: 127.0.0.1
+RedisPort: 6379
+RedisPassword:
+RedisDb: 0
+
