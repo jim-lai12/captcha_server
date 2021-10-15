@@ -1,6 +1,6 @@
 # recaptcha multiple server solver
 
-##可以一次使用多個captcha solver, captcha solver account 或進行提前預約的Restful Api
+可以一次使用多個captcha solver, captcha solver account 或進行提前預約的Restful Api
 
 ## /api/account/new 
 1. Post
